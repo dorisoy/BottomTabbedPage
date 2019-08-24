@@ -1,6 +1,6 @@
 <img src="./art/repo_header.png" alt="TopTabbedPage - A Xamarin.Forms control" width="728" />
 
-# BottomTabbedPage
+# BottomTabbedPage  Upgrade to Xamarin. Forms 4.2.0.709249
 A Xamarin.Forms control brings BottomNavigationView for bottom navigation on Android
 
 |![Tab 1](./art/tab1.png)|![Tab 5](./art/tab5.png)|
