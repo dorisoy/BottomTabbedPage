@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Naxam.Controls.Forms</RootNamespace>
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+    <AssemblyName>Naxam.BottomTabbedPage.Forms</AssemblyName>
+    <AssemblyDescription>A library for Xamarin.Forms where BottomNavigationView is used instead of TabLayout.</AssemblyDescription>
+    <AssemblyCompany>NAXAM CO.,LTD.</AssemblyCompany>
+    <AssemblyProduct>XControls</AssemblyProduct>
+    <AssemblyCopyright>Copyright (c) 2017-present NAXAM</AssemblyCopyright>
+    <AssemblyTrademark>NAXAM</AssemblyTrademark>
+    <AssemblyVersion>0.3.0.1</AssemblyVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Controls" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.2.0.709249" />
+  </ItemGroup>
+</Project>
